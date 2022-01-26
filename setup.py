@@ -18,7 +18,6 @@ setup(
     url='https://jamesthorne.co.uk',
     description='Fact Extraction and VERification scorer',
     long_description="readme",
-    license=license,
     package_dir={'fever': 'src/fever'},
     packages=['fever'],
     install_requires=install,
